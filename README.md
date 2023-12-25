@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Davi Brito
-==================================================================================================================================
+Hi 👋 My name is Davi Brito
+===========================
 
 Multiplatform Software Development Student
 ------------------------------------------
@@ -9,6 +9,7 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
 * 🌍  I'm based in São Paulo, SP
 * ✉️  You can contact me at [davibritojunior1@gmail.com](mailto:davibritojunior1@gmail.com)
 * 🧠  I'm learning Spring Boot Security
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
