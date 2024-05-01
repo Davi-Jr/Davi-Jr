@@ -24,18 +24,6 @@ alt="Intellij" /></a><a href="https://www.intellij.org" target="_blank" rel="nor
 ### Socials
 
 <p align="left">
-    <a href="https://www.github.com/DaveBrito" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-        </picture>
-    </a>
- <a href="http://www.instagram.com/lrnnx.4" target="_blank" rel="noreferrer">
-   <picture>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-     </picture>
-    </a>
     <a href="https://www.linkedin.com/in/davi-brito-71a3222a5/" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -43,13 +31,7 @@ alt="Intellij" /></a><a href="https://www.intellij.org" target="_blank" rel="nor
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
         </picture>
     </a>
-    <a href="https://www.x.com/DaveeBritto" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-        </picture>
-    </a>
+ 
 </p>
 
 
@@ -57,10 +39,8 @@ alt="Intellij" /></a><a href="https://www.intellij.org" target="_blank" rel="nor
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DaveBrito"><img src="https://github-readme-stats.vercel.app/api?username=DaveBrito&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=14b8a6&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="DaveBrito's GitHub stats" /></a>
+<a href="http://www.github.com/DaveBrito"><img src="https://github-readme-stats.vercel.app/api?username=DaveBrito&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=14b8a6&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="DaveBrito's GitHub stats" width="60%" height="60%" /></a>
 
-<a href="http://www.github.com/DaveBrito"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaveBrito&stroke=14b8a6&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=14b8a6&currStreakLabel=6366f1&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+<a href="http://www.github.com/DaveBrito"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaveBrito&stroke=14b8a6&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=14b8a6&currStreakLabel=6366f1&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" width="60%" height="60%"/></a>
 
-<a href="http://www.github.com/DaveBrito"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DaveBrito&bg_color=1c1917&color=14b8a6&line=f97316&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/DaveBrito" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveBrito&langs_count=10&title_color=6366f1&text_color=14b8a6&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
