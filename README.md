@@ -39,7 +39,6 @@ alt="Intellij" /></a><a href="https://www.intellij.org" target="_blank" rel="nor
 
 
 ### Badges
-
-[![Dave's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=davebrito&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DaveBrito/github-readme-stats#gh-dark-mode-only) 
+[![Dave's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=davebrito&show_icons=true&theme=dark)](https://github.com/DaveBrito/github-readme-stats)
 
 
