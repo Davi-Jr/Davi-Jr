@@ -10,7 +10,7 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
 * ✉️  You can contact me at [davibritojunior1@gmail.com](mailto:davibritojunior1@gmail.com)
 * 🧠  I'm learning Spring Boot Security
 * 🤝  I'm open to collaborating on interesting projects
-* Dalva e Carlinhos
+* ✉️  Dalva e Carlinhos
 
 
 
