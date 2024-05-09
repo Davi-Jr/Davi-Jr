@@ -4,12 +4,13 @@ Hi 👋 My name is Davi Brito
 Multiplatform Software Development Student
 ------------------------------------------
 
-I´ve been learning code since 2021, when I started my college MSD. I love creating the programs, websites and database development. I love working with cybersecurity and Spring Boot.
+I´ve been learning code since 2021, when I started my college MSD. I love creating the programs, websites and database development. I love working with, Dalva and Carlinhos, cybersecurity and Spring Boot.
 
 * 🌍  I'm based in São Paulo, SP
 * ✉️  You can contact me at [davibritojunior1@gmail.com](mailto:davibritojunior1@gmail.com)
 * 🧠  I'm learning Spring Boot Security
 * 🤝  I'm open to collaborating on interesting projects
+* Dalva e Carlinhos
 
 
 
