@@ -43,7 +43,6 @@ alt="Intellij" /></a><a href="https://www.intellij.org" target="_blank" rel="nor
 ![](https://github-readme-stats.vercel.app/api?username=DaveBrito&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DaveBrito&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
