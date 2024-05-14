@@ -1,6 +1,5 @@
 Hi 👋 My name is Davi Brito
 ===========================
-
 Multiplatform Software Development Student
 ------------------------------------------
 
