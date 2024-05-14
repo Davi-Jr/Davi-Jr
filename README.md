@@ -11,7 +11,7 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
 * 🤝  I'm open to collaborating on interesting projects
   
 
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 ### Skills
@@ -22,7 +22,7 @@ alt="Intellij" /></a><a href="https://www.intellij.org" target="_blank" rel="nor
 </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 
 ### Socials
@@ -38,9 +38,9 @@ alt="Intellij" /></a><a href="https://www.intellij.org" target="_blank" rel="nor
  
 </p>
 
-
 ### Badges
 ![](https://github-readme-stats.vercel.app/api?username=DaveBrito&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+
 
 
 
