@@ -3,7 +3,7 @@ Hi 👋 My name is Davi Brito
 Multiplatform Software Development Student
 ------------------------------------------
 
-I´ve been learning code since 2021, when I started my college MSD. I love creating the programs, websites and database development. I love working with cybersecurity and Spring Boot.
+I´ve been learning code since 2021, when I started my college MSD. I love creating programs, websites and database development. I love working with cybersecurity and Spring Boot.
 
 * 🌍  I'm based in São Paulo, SP
 * ✉️  You can contact me at [davibritojunior1@gmail.com](davibritojunior1@gmail.com)
@@ -11,7 +11,7 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
 * 🤝  I'm open to collaborating on interesting projects
   
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 
 ### Skills
@@ -21,7 +21,7 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
 alt="Intellij" /></a><a href="https://www.intellij.org" target="_blank" rel="noreferrer"><img src="https://github.com/DaveBrito/DaveBrito/assets/113936762/16f0fcb2-deb5-4ab6-80e7-fd2ece82eae8.svg"width="36" height="36" alt="Intellij" alt="Spring Boot" /></a><a href="https://www.vscode.org" target="_blank" rel="noreferrer"><img src="https://github.com/DaveBrito/DaveBrito/assets/113936762/d81e1075-4f87-41ff-965b-f4312f49582b.svg"width="36" height="36" alt="Spring Boot" /> 
 </a>
 </p>
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 
