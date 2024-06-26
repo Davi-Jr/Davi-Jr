@@ -20,7 +20,10 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
 ### Skills
 ### 🛠 &nbsp;Languages and Tools :
 <div align="left">
+ <a href="davibritojunior1@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</a>
+
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
@@ -48,8 +51,7 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
@@ -65,23 +67,31 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="30" alt="kotlin logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="30" alt="cloudflare logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/windows/0078D6" height="30" alt="windows8 logo"  />
+  
+ 
+
+  ### 🖥️ OS:
+<img src="https://cdn.simpleicons.org/windows/0078D6" height="30" alt="Windows logo" />
+<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="Ubuntu logo"/>
+
+
+
+ 
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaveBrito&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveBrito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DaveBrito&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveBrito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
 ###
