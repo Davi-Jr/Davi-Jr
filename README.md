@@ -1,6 +1,6 @@
 Hi 👋 My name is Davi Brito
 ===========================
-Multiplatform Software Development Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Multiplatform Software Development Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 ------------------------------------------
 
 
@@ -9,7 +9,6 @@ Multiplatform Software Development Student <img src="https://media.giphy.com/med
 I´ve been learning code since 2021, when I started my college MSD. I love creating programs, websites and database development. I love working with cybersecurity and Spring Boot.
 
 * 🌍  I'm based in São Paulo, SP
-* ✉️  You can contact me at [davibritojunior1@gmail.com](davibritojunior1@gmail.com)
 * 🧠  I'm learning Spring Boot Security
 * 🤝  I'm open to collaborating on interesting projects
   
