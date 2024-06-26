@@ -48,13 +48,8 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
+   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
   <img width="12" />
@@ -69,19 +64,22 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  
+   <img width="12" />
   <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="30" alt="kotlin logo"  />
-  
+   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  
+   <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="30" alt="cloudflare logo"  />
-  
+   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
   
+   ### ☄️ Frameworks:
+ <img src="https://cdn.simpleicons.org/spring/6DB33F" height="30" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
  
-
   ### 🖥️ OS:
 <img src="https://cdn.simpleicons.org/windows/0078D6" height="30" alt="Windows logo" />
+<img width="10" />
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="Ubuntu logo"/>
 
 
