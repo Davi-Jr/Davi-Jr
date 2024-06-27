@@ -90,8 +90,9 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaveBrito&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveBrito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DaveBrito&hide_title=false&hide_rank=false&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="170" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveBrito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="170" alt="languages graph" />
+
 </div>
 
 ###
