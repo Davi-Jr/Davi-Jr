@@ -2,7 +2,7 @@ Hi 👋 My name is Davi Brito
 ===========================
 Multiplatform Software Development Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 ------------------------------------------
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 
 I´ve been learning code since 2021, when I started my college MSD. I love creating programs, websites and database development. I love working with cybersecurity and Spring Boot.
@@ -10,9 +10,10 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
 * 🌍  I'm based in São Paulo, SP
 * 🧠  I'm learning Spring Boot Security
 * 🤝  I'm open to collaborating on interesting projects
-  
 
-### 🧰 &nbsp;Languages and Tools :
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+### 🧰 &nbsp;Languages:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
    <img width="5" />
@@ -67,7 +68,7 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="Ubuntu logo"/>
 
 
-## 🗺️ Redes Sociais
+## 🗺️ Social Network:
 <div align="left">
 <a href="mailto:davibritojunior1@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
