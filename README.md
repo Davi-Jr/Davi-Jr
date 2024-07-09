@@ -68,7 +68,7 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="Ubuntu logo"/>
 
 
-## 🗺️ Social Network:
+### 🗺️ Social Network:
 <div align="left">
 <a href="mailto:davibritojunior1@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
