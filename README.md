@@ -67,6 +67,15 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
 <img width="5" />
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="Ubuntu logo"/>
 
+###
+
+<div align="left">
+    <td><img src="https://github-readme-stats.vercel.app/api?username=DaveBrito&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff&card_width=400&line_height=27" /></td>
+   
+
+</div>
+
+###
 
 ### 🗺️ Social Network:
 <div align="left">
@@ -82,16 +91,6 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
 </div>
  
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaveBrito&hide_title=false&hide_rank=false&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="170" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveBrito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="170" alt="languages graph" />
-
-</div>
-
-###
 
 <br clear="both">
 
