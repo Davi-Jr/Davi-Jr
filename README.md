@@ -63,7 +63,7 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
   <img width="5" />
  
   ### 🖥️ OS:
-<img src="https://cdn.simpleicons.org/windows/0078D6" height="30" alt="Windows logo" />
+<img src="assets/icons8-windows-10-48.png" alt="Windows Icon" style="width: 30px; height: 30px;">
 <img width="5" />
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="Ubuntu logo"/>
 
