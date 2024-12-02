@@ -67,7 +67,8 @@ Este repositório é um reflexo da minha jornada e dos projetos que estou desenv
 ###
 
 <div align="left">
-    <td><img src="https://github-readme-stats.vercel.app/api?username=DaveBrito&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff&card_width=400&line_height=27" /></td>
+    <td> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaveBrito&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  </td>
    
 
 </div>
