@@ -1,19 +1,16 @@
-Hi 👋 My name is Davi Brito
+Olá, 👋 sou o Davi Brito
 ===========================
-Multiplatform Software Development Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-------------------------------------------
+Estudante de Desenvolvimento de Software Multiplatoformas <img src="assets/hacker-hackerman.gif" width="50" height="40"> 
+-----------------------------------------
 
 
+Sou um desenvolvedor novato em constante aprendizado, com o objetivo de me tornar Full Stack. Estou focado em melhorar minhas habilidades no back-end, explorando ferramentas e boas práticas para criar soluções eficientes. Sempre focando no progresso e conquistas🏆dessa jornada!💪
 
-I´ve been learning code since 2021, when I started my college MSD. I love creating programs, websites and database development. I love working with cybersecurity and Spring Boot.
-
-* 🌍  I'm based in São Paulo, SP
-* 🧠  I'm learning Spring Boot Security
-* 🤝  I'm open to collaborating on interesting projects
+Este repositório é um reflexo da minha jornada e dos projetos que estou desenvolvendo. Fique à vontade para acompanhar minha evolução e compartilhar sugestões! 🚀
 
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### 🧰 &nbsp;Languages:
+### 🧰 &nbsp;Linguagens:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
    <img width="5" />
@@ -75,9 +72,8 @@ I´ve been learning code since 2021, when I started my college MSD. I love creat
 
 </div>
 
-###
 
-### 🗺️ Social Network:
+### 🗺️ Redes Sociais:
 <div align="left">
 <a href="mailto:davibritojunior1@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
