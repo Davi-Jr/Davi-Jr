@@ -67,10 +67,8 @@ Este repositório é um reflexo da minha jornada e dos projetos que estou desenv
 ###
 
 <div align="left">
-    <td> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaveBrito&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  </td>
-   
-
+  <a href="https://github.com/DaveBrito">
+  <img align="" height="180em" src="https://github-readme-stats.vercel.app/api?username=DaveBrito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
@@ -93,7 +91,7 @@ Este repositório é um reflexo da minha jornada e dos projetos que estou desenv
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DaveBrito/DaveBrito/output/snake.svg" alt="Snake animation" />
+
 
 
 
