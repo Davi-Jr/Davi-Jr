@@ -10,59 +10,36 @@ Este repositório é um reflexo da minha jornada e dos projetos que estou desenv
 
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### 🧰 &nbsp;Linguagens:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-   <img width="5" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-   <img width="5" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
-   <img width="5" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-    <img width="5" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
-    <img width="5" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-   <img width="5" />
-  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="30" alt="kotlin logo"  />
-     <img width="5" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-    <img width="5" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
-  
-   ### ⛩️ Frameworks:
- <img src="https://cdn.simpleicons.org/spring/6DB33F" height="30" alt="spring logo"  />
- <img width="5" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
- <img width="5" />
- <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
- <img width="5" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+### Linguagens e Ferramentas
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+</div>
 
- ### 🛸 DataBase:
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="30" alt="cloudflare logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  />
-  <img width="5" />
- 
-  ### 🖥️ OS:
-<img src="assets/icons8-windows-10-48.png" alt="Windows Icon" style="width: 30px; height: 30px;">
-<img width="5" />
-<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="Ubuntu logo"/>
+
+<h3>Frameworks</h3>
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <img height="30" src="https://cdn.simpleicons.org/springboot?viewbox=auto" />
+  <img height="30" src="https://cdn.simpleicons.org/CodeIgniter?viewbox=auto" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
+</div>
+
+<h3>Banco de Dados</h3>
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo" />
+</div>
 
 ###
 
@@ -86,10 +63,6 @@ Este repositório é um reflexo da minha jornada e dos projetos que estou desenv
 </div>
  
 
- 
-</div>
-
-<br clear="both">
 
 
 
