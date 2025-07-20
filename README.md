@@ -1,9 +1,14 @@
-Olá, 👋 sou o Davi Brito
-===========================
-Estudante de Desenvolvimento de Software Multiplatoformas <img src="assets/hacker-hackerman.gif" width="50" height="40"> 
------------------------------------------
+### Olá, me chamo Davi!
 
-Desenvolvedor em constante aprendizado, com o objetivo de me tornar Full Stack. Estou focado em melhorar minhas habilidades no back-end, explorando ferramentas e boas práticas para criar soluções eficientes. Sempre focando no progresso e conquistas🏆dessa jornada!💪
+<img src="https://img.shields.io/static/v1?label=Overview&message=DaviJr&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+Sou um desenvolvedor apaixonado por Back-End, sempre em constante aprendizado e evolução. Busco me aprimorar para ser uma versão melhor de mim mesmo.
+
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando DSM na Fatec Zona Sul - 6º Semestre.
+- 🌱 Aprendendo mais sobre SpringBoot, MicroServices e Java.
 
 Este repositório é um reflexo da minha jornada e dos projetos que estou desenvolvendo. Fique à vontade para acompanhar minha evolução e compartilhar sugestões! 🚀
 
@@ -23,8 +28,6 @@ Este repositório é um reflexo da minha jornada e dos projetos que estou desenv
     <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveBrito&layout=donut&theme=one_dark_pro"/>
   </a>
 </div>
-
-
 
 
 
