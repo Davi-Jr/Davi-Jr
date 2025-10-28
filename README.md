@@ -1,6 +1,6 @@
 ### Olá, me chamo Davi!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=DaviJr&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Davi-Jr&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 Sou um desenvolvedor apaixonado por Back-End, sempre em constante aprendizado e evolução. Busco me aprimorar para ser uma versão melhor de mim mesmo.
 
