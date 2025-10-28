@@ -23,9 +23,9 @@ Este repositório é um reflexo da minha jornada e dos projetos que estou desenv
 [![My Skills](https://skillicons.dev/icons?i=firebase,supabase,mysql,&theme=dark)](https://skillicons.dev)
 
 <div align="left">
-  <a href="https://github.com/DaveBrito" target="_blank">
-    <img height="205em" src="https://github-readme-stats.vercel.app/api?username=DaveBrito&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true&rank_icon=github"/>
-    <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveBrito&layout=donut&theme=one_dark_pro"/>
+  <a href="https://github.com/Davi-Jr" target="_blank">
+    <img height="205em" src="https://github-readme-stats.vercel.app/api?username=Davi-Jr&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true&rank_icon=github"/>
+    <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Jr&layout=donut&theme=one_dark_pro"/>
   </a>
 </div>
 
