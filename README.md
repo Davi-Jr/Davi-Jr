@@ -24,9 +24,8 @@ Este repositório é um reflexo da minha jornada e dos projetos que estou desenv
 
 
 <div href="https://github.com/Davi-Jr" target="_blank">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Jr&layout=donut&theme=one_dark_pro"/>
-  &nbsp;
-   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Davi-Jr&show_icons=true&count_private=true&include_all_commits=true&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=C678DD&border_color=21252B&rank_icon=github" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Jr&layout=donut&theme=one_dark_pro"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Davi-Jr&show_icons=true&count_private=true&include_all_commits=true&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=C678DD&border_color=21252B&rank_icon=github" />
 </div>
 
 
