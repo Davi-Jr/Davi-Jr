@@ -23,8 +23,11 @@ Este repositório é um reflexo da minha jornada e dos projetos que estou desenv
 [![My Skills](https://skillicons.dev/icons?i=firebase,supabase,mysql,&theme=dark)](https://skillicons.dev)
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davi-Jr&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&rank_icon=github)
+<div href="https://github.com/Davi-Jr" target="_blank">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Jr&layout=donut&theme=one_dark_pro"/>
+  &nbsp;
+   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Davi-Jr&show_icons=true&count_private=true&include_all_commits=true&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=C678DD&border_color=21252B&rank_icon=github" />
+</div>
 
 
 
