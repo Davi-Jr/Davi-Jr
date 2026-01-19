@@ -24,8 +24,8 @@ Este repositório é um reflexo da minha jornada e dos projetos que estou desenv
 
 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davi-Jr&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davi-Jr&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&rank_icon=github)
+
 
 
 
