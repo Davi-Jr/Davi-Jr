@@ -2,15 +2,15 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Davi-Jr&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-Sou um desenvolvedor apaixonado por Back-End, sempre em constante aprendizado e evolução. Busco me aprimorar para ser uma versão melhor de mim mesmo.
+Sou um desenvolvedor apaixonado por FullStack, sempre em constante aprendizado e evolução. Busco me aprimorar para ser uma versão melhor de mim mesmo.
 
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando DSM na Fatec Zona Sul - 6º Semestre.
+- 🎓 Formado em Desenvolvimento de Software Multiplataformas na Fatec Zona Sul.
 - 🌱 Aprendendo mais sobre SpringBoot, MicroServices e Java.
 
-Este repositório é um reflexo da minha jornada e dos projetos que estou desenvolvendo. Fique à vontade para acompanhar minha evolução e compartilhar sugestões! 🚀
+Este repositório é um reflexo da minha jornada e dos projetos que estou desenvolvendo. Fique à vontade para acompanhar minha evolução profissional. 🚀
 
 ### 💻 Linguagens
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,php,ts,cs,html,css,js,py&theme=dark&perline=10)](https://skillicons.dev)
@@ -23,11 +23,20 @@ Este repositório é um reflexo da minha jornada e dos projetos que estou desenv
 [![My Skills](https://skillicons.dev/icons?i=firebase,supabase,mysql,&theme=dark)](https://skillicons.dev)
 
 
-<div href="https://github.com/Davi-Jr" target="_blank">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Jr&layout=donut&theme=one_dark_pro"/>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Davi-Jr&show_icons=true&count_private=true&include_all_commits=true&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=C678DD&border_color=21252B&rank_icon=github" />
-</div>
-
-
-
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img
+        height="200em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Jr&layout=donut&theme=one_dark_pro"
+      />
+    </td>
+    <td align="right">
+      <img
+        height="200em"
+        src="https://github-readme-stats.vercel.app/api?username=Davi-Jr&show_icons=true&count_private=true&include_all_commits=true&theme=one_dark_pro&rank_icon=github"
+      />
+    </td>
+  </tr>
+</table>
 
