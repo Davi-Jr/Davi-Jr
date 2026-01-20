@@ -34,6 +34,8 @@ Este repositório é um reflexo da minha jornada e dos projetos que estou desenv
 </tr>
 </table>
 <!-- stats -->
-
+<div>
+  <img src="https://raw.githubusercontent.com/Davi-Jr/Davi-Jr/output/snake.svg" alt="Snake animation" />
+</div>
 
 
