@@ -1,7 +1,7 @@
 <h2> 𝗛𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲, 𝗳𝗲𝗹𝗹𝗼𝘄 <𝗰𝗼𝗱𝗲𝗿𝘀/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <br>
 <div align="center">
-
+  
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/davi-brito-jr/)
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/1155996422668288120)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:davibritojunior1@gmail.com)
@@ -68,10 +68,21 @@
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
 </div>
+
+
 <br>
 <br>
+<!-- github status-->
+<h3 align="center">
+<img src="./assets/icons/github-white.svg" width=18>
+ Github Status 
+<img src="./assets/icons/github-black.svg" width=22>
+</h3>
+<br>
+<!-- Status -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Davi-Jr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Davi-Jr&theme=graywhite&hide_border=true&locale=eng&mode=weekly)](https://git.io/streak-stats)
 </div>
 
 
