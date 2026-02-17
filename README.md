@@ -72,12 +72,15 @@
 <img src="./assets/github-black.svg" width=22>
 </h3>
 <br>
+
 <!-- Status -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Davi-Jr&theme=graywhite&hide_border=true&locale=eng&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Davi-Jr&theme=graywhite&hide_border=true&locale=eng&mode=weekly&card_width=800)](https://git.io/streak-stats)
 </div>
 
+<br>
+<br>
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
   <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
 </a>
