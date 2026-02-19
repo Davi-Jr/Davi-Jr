@@ -67,15 +67,15 @@
 <br>
 <!-- github status-->
 <h3 align="center">
-<img src="./assets/github-white.svg" width=18>
+<img src="./assets/github-white.svg" width=32>
  Github Status 
-<img src="./assets/github-black.svg" width=22>
+<img src="./assets/github-black.svg" width=32>
 </h3>
 <br>
 
 <!-- Status -->
 <div align="center">
-
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Davi-Jr&theme=graywhite&hide_border=true&locale=eng&mode=weekly&card_width=800)](https://git.io/streak-stats)
 </div>
 
