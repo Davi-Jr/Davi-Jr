@@ -67,9 +67,9 @@
 <br>
 <!-- github status-->
 <h3 align="center">
-<img src="./assets/github-white.svg" width=32>
+<img src="./assets/github-white.svg" width=25>
  Github Status 
-<img src="./assets/github-black.svg" width=32>
+<img src="./assets/github-black.svg" width=25>
 </h3>
 <br>
 
