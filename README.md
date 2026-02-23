@@ -11,8 +11,10 @@
 𝗜’𝗺 𝗗𝗮𝘃𝗶 𝗳𝗿𝗼𝗺 𝗕𝗿𝗮𝘇𝗶𝗹 🇧🇷, 𝗮 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗙𝘂𝗹𝗹𝗦𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 🧑‍💻, 𝗮𝗹𝘄𝗮𝘆𝘀 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗲𝘃𝗼𝗹𝘃𝗶𝗻𝗴.  
 𝗜 𝘀𝘁𝗿𝗶𝘃𝗲 𝘁𝗼 𝗯𝗲𝗰𝗼𝗺𝗲 𝗮 𝗯𝗲𝘁𝘁𝗲𝗿 𝘃𝗲𝗿𝘀𝗶𝗼𝗻 𝗼𝗳 𝗺𝘆𝘀𝗲𝗹𝗳 𝘄𝗶𝘁𝗵 𝗲𝗮𝗰𝗵 𝗻𝗲𝘄 𝗽𝗿𝗼𝗷𝗲𝗰𝘁.  
 𝗥𝗲𝗰𝗲𝗻𝘁𝗹𝘆 𝗴𝗿𝗮𝗱𝘂𝗮𝘁𝗲𝗱 🎓 𝗶𝗻 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (𝗗𝗦𝗠) 𝗮𝘁 𝗙𝗮𝘁𝗲𝗰 𝗭𝗼𝗻𝗮 𝗦𝘂𝗹.  
-
-𝗧𝗵𝗶𝘀 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 𝗿𝗲𝗳𝗹𝗲𝗰𝘁𝘀 𝗺𝘆 𝗷𝗼𝘂𝗿𝗻𝗲𝘆 𝗮𝗻𝗱 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗜’𝗺 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴. 𝗙𝗲𝗲𝗹 𝗳𝗿𝗲𝗲 𝘁𝗼 𝗳𝗼𝗹𝗹𝗼𝘄 𝗺𝘆 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗲𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻. 🚀
+<br>
+<div align="center">
+  <i>This profile reflects my journey and the projects I’m building. Feel free to follow my professional evolution. 🚀</i>
+</div>
 <br>
 <br>
 <br>
@@ -27,7 +29,6 @@
 
 
 
-<br>
 <br>
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
@@ -63,7 +64,6 @@
 <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 </div>
 
-<br>
 <br>
 <!-- github status-->
 <h3 align="center">
