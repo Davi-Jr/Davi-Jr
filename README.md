@@ -76,9 +76,9 @@
 <!-- Status -->
 <div align="center">
   
- <img src="https://streak-stats.demolab.com?user=Davi-Jr&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=500" />
+ <img src="https://streak-stats.demolab.com?user=Davi-Jr&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=400" />
 
-  <img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=Davi-Jr&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&rank_icon=github&card_width=500" />
+  <img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=Davi-Jr&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&rank_icon=github&card_width=400" />
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-Jr&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Nurmuhammet%20Altybaev's%20Contribution%20Graph"
   alt="Activity Graph"
