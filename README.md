@@ -79,7 +79,7 @@
 
   <img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=Davi-Jr&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&rank_icon=github&card_width=400" />
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-Jr&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Nurmuhammet%20Altybaev's%20Contribution%20Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-Jr&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Davi%20Jr's%20Contribution%20Graph"
   alt="Activity Graph"
   width="100%"
 />
