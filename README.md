@@ -88,10 +88,5 @@
 
 <br>
 <br>
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
-</a>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 ![Metrics](./github-metrics.svg)
