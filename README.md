@@ -66,7 +66,7 @@
 <!-- github status-->
 <h3 align="center">
 <img src="./assets/github-white.svg" width=25>
- Status no Github 
+Status do Github 
 </h3>
 <br>
 
