@@ -1,4 +1,4 @@
-<h2> 𝗛𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲, 𝗳𝗲𝗹𝗹𝗼𝘄 <𝗰𝗼𝗱𝗲𝗿𝘀/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝗢𝗹𝗮́, 𝗗𝗲𝘃𝘀 </>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <br>
 <div align="center">
   
@@ -8,29 +8,28 @@
 </div>
 <br>
 
-𝗜’𝗺 𝗗𝗮𝘃𝗶 𝗳𝗿𝗼𝗺 𝗕𝗿𝗮𝘇𝗶𝗹 🇧🇷, 𝗮 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗙𝘂𝗹𝗹𝗦𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 🧑‍💻, 𝗮𝗹𝘄𝗮𝘆𝘀 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗲𝘃𝗼𝗹𝘃𝗶𝗻𝗴.  
-𝗜 𝘀𝘁𝗿𝗶𝘃𝗲 𝘁𝗼 𝗯𝗲𝗰𝗼𝗺𝗲 𝗮 𝗯𝗲𝘁𝘁𝗲𝗿 𝘃𝗲𝗿𝘀𝗶𝗼𝗻 𝗼𝗳 𝗺𝘆𝘀𝗲𝗹𝗳 𝘄𝗶𝘁𝗵 𝗲𝗮𝗰𝗵 𝗻𝗲𝘄 𝗽𝗿𝗼𝗷𝗲𝗰𝘁.  
-𝗥𝗲𝗰𝗲𝗻𝘁𝗹𝘆 𝗴𝗿𝗮𝗱𝘂𝗮𝘁𝗲𝗱 🎓 𝗶𝗻 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (𝗗𝗦𝗠) 𝗮𝘁 𝗙𝗮𝘁𝗲𝗰 𝗭𝗼𝗻𝗮 𝗦𝘂𝗹.  
+𝗦𝗼𝘂 𝗼 𝗗𝗮𝘃𝗶, 𝘂𝗺 𝗱𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝗙𝘂𝗹𝗹𝗦𝘁𝗮𝗰𝗸 𝗮𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝗱𝗼 🧑‍💻, 𝘀𝗲𝗺𝗽𝗿𝗲 𝗮𝗽𝗿𝗲𝗻𝗱𝗲𝗻𝗱𝗼 𝗲 𝗲𝘃𝗼𝗹𝘂𝗶𝗻𝗱𝗼.  
+𝗕𝘂𝘀𝗰𝗼 𝗺𝗲 𝘁𝗼𝗿𝗻𝗮𝗿 𝘂𝗺𝗮 𝘃𝗲𝗿𝘀𝗮̃𝗼 𝗺𝗲𝗹𝗵𝗼𝗿 𝗱𝗲 𝗺𝗶𝗺 𝗺𝗲𝘀𝗺𝗼 𝗮 𝗰𝗮𝗱𝗮 𝗻𝗼𝘃𝗼 𝗽𝗿𝗼𝗷𝗲𝘁𝗼.  
+𝗥𝗲𝗰𝗲𝗻𝘁𝗲𝗺𝗲𝗻𝘁𝗲 𝗳𝗼𝗿𝗺𝗮𝗱𝗼 🎓 𝗲𝗺 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗶𝗺𝗲𝗻𝘁𝗼 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗠𝘂𝗹𝘁𝗶𝗽𝗹𝗮𝘁𝗮𝗳𝗼𝗿𝗺𝗮 (𝗗𝗦𝗠) 𝗻𝗮 𝗙𝗮𝘁𝗲𝗰 𝗭𝗼𝗻𝗮 𝗦𝘂𝗹. 
 <br>
 <div align="center">
-  <i>This profile reflects my journey and the projects I’m building. Feel free to follow my professional evolution. 🚀</i>
+  <i>Este perfil reflete minha trajetória e os projetos que estou construindo. Sinta-se à vontade para acompanhar minha evolução profissional. 🚀</i>
 </div>
 <br>
 <br>
 <br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-**𝗧𝗮𝗹𝗸𝗶𝗻𝗴 𝗮𝗯𝗼𝘂𝘁 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗦𝘁𝘂𝗳𝗳𝘀:**
-- 👨🏽‍💻 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝗮𝗻𝘆𝘄𝗵𝗲𝗿𝗲;
-- 🌱 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝗮𝗰𝘁, 𝗔𝗣𝗜𝘀 𝗮𝗻𝗱 𝗖𝗟𝗜;
-- 💬 𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 — 𝗜’𝗺 𝗵𝗮𝗽𝗽𝘆 𝘁𝗼 𝗵𝗲𝗹𝗽;
-- ⚡️ 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁: 𝗜 𝗵𝗮𝘃𝗲 𝗕𝟮 𝗹𝗲𝘃𝗲𝗹 𝗶𝗻 𝗘𝗻𝗴𝗹𝗶𝘀𝗵;
+**𝗦𝗼𝗯𝗿𝗲 𝗺𝗶𝗺:**
+- 🌱 𝗔𝘁𝘂𝗮𝗹𝗺𝗲𝗻𝘁𝗲 𝗮𝗽𝗿𝗲𝗻𝗱𝗲𝗻𝗱𝗼 𝗥𝗲𝗮𝗰𝘁, 𝗔𝗣𝗜𝘀 𝗲 𝗖𝗟𝗜;
+- 💬 𝗣𝗲𝗿𝗴𝘂𝗻𝘁𝗲-𝗺𝗲 𝗼 𝗾𝘂𝗲 𝗾𝘂𝗶𝘀𝗲𝗿 — 𝗲𝘀𝘁𝗼𝘂 𝗮𝗾𝘂𝗶 𝗽𝗮𝗿𝗮 𝗮𝗷𝘂𝗱𝗮𝗿;
+- ⚡️ 𝗖𝘂𝗿𝗶𝗼𝘀𝗶𝗱𝗮𝗱𝗲: 𝘁𝗲𝗻𝗵𝗼 𝗻𝗶́𝘃𝗲𝗹 𝗕𝟮 𝗲𝗺 𝗶𝗻𝗴𝗹𝗲̂𝘀;
 
 
 
 <br>
 <!-- Tech Stack -->
-<h3 align="center">💻 Tech Stack</h3>
+<h3 align="center">💻 Tecnologias</h3>
 <div align="center">
 
 <!-- Languages -->
@@ -67,7 +66,7 @@
 <!-- github status-->
 <h3 align="center">
 <img src="./assets/github-white.svg" width=25>
- Github Status 
+ Status no Github 
 </h3>
 <br>
 
@@ -78,8 +77,8 @@
 
   <img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=Davi-Jr&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&rank_icon=github&card_width=400" />
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-Jr&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Davi%20Jr's%20Contribution%20Graph"
-  alt="Activity Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-Jr&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20do%20Davi%20Jr"
+  alt="Gráfico de Atividades"
   width="100%"
 />
 </div>
