@@ -82,5 +82,3 @@ Status do Github
   width="100%"
 />
 </div>
-
-![Metrics](./github-metrics.svg)
