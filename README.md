@@ -1,4 +1,4 @@
-<h2> 𝗢𝗹á, 𝗗𝗲𝘃𝘀 & 𝗥𝗲𝗰𝗿𝘂𝘁𝗮𝗱𝗼𝗿𝗲𝘀</>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐎𝐥á, 𝐃𝐞𝐯𝐬 & 𝐑𝐞𝐜𝐫𝐮𝐭𝐚𝐝𝐨𝐫𝐞𝐬</>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <br>
 <div align="center">
   
@@ -8,11 +8,14 @@
 </div>
 <br>
 
-𝗦𝗼𝘂 𝗗𝗮𝘃𝗶, 𝘂𝗺 𝗱𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝗕𝗮𝗰𝗸𝗘𝗻𝗱 🧑‍💻 | 𝗥𝗲𝗰é𝗺-𝗳𝗼𝗿𝗺𝗮𝗱𝗼 𝗲𝗺 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗶𝗺𝗲𝗻𝘁𝗼 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗠𝘂𝗹𝘁𝗶𝗽𝗹𝗮𝘁𝗮𝗳𝗼𝗿𝗺𝗮 (𝗗𝗦𝗠) 𝗻𝗮 𝗙𝗮𝘁𝗲𝗰 𝗭𝗼𝗻𝗮 𝗦𝘂𝗹 🎓.
+𝐒𝐨𝐮 𝐃𝐚𝐯𝐢, 𝐮𝐦 𝐝𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐞𝐝𝐨𝐫 𝐅𝐮𝐥𝐥𝐒𝐭𝐚𝐜𝐤 𝐉𝐮𝐧𝐢𝐨𝐫 🧑‍💻 | 𝐟𝐨𝐫𝐦𝐚𝐝𝐨 𝐞𝐦 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐌𝐮𝐥𝐭𝐢𝐩𝐥𝐚𝐭𝐚𝐟𝐨𝐫𝐦𝐚 (𝐃𝐒𝐌) 𝐧𝐚 𝐅𝐚𝐭𝐞𝐜 𝐙𝐨𝐧𝐚 𝐒𝐮𝐥 🎓.
 <br>
-𝗔𝗽𝗮𝗶𝘅𝗼𝗻𝗮𝗱𝗼 𝗽𝗼𝗿 𝗰𝗼𝗱𝗮𝗿, 𝘀𝗲𝗺𝗽𝗿𝗲 𝗰𝗼𝗹𝗼𝗰𝗮𝗻𝗱𝗼 𝗻𝗼𝘃𝗼𝘀 𝗮𝗽𝗿𝗲𝗻𝗱𝗶𝘇𝗮𝗱𝗼𝘀 𝗲𝗺 𝗽𝗿á𝘁𝗶𝗰𝗮 𝗲 𝗲𝘅𝗽𝗹𝗼𝗿𝗮𝗻𝗱𝗼 𝗻𝗼𝘃𝗮𝘀 𝘁𝗲𝗰𝗵𝘀.
-𝗕𝘂𝘀𝗰𝗼 𝗺𝗲 𝘁𝗼𝗿𝗻𝗮𝗿 𝘂𝗺 𝗗𝗲𝘃 𝗺𝗲𝗹𝗵𝗼𝗿 𝗮 𝗰𝗮𝗱𝗮 𝗽𝗿𝗼𝗷𝗲𝘁𝗼 𝗰𝗿𝗶𝗮𝗱𝗼 — 𝗰𝗮𝗱𝗮 𝘂𝗺 𝗱𝗲𝗹𝗲𝘀 é 𝘂𝗺𝗮 𝘃𝗲𝗿𝘀ã𝗼 𝗺𝗮𝗶𝘀 𝗮𝘁𝘂𝗮𝗹𝗶𝘇𝗮𝗱𝗮 𝗱𝗲 𝗺𝗶𝗺.
+𝐀𝐩𝐚𝐢𝐱𝐨𝐧𝐚𝐝𝐨 𝐩𝐨𝐫 𝐜𝐨𝐝𝐚𝐫, 𝐬𝐞𝐦𝐩𝐫𝐞 𝐜𝐨𝐥𝐨𝐜𝐚𝐧𝐝𝐨 𝐧𝐨𝐯𝐨𝐬 𝐚𝐩𝐫𝐞𝐧𝐝𝐢𝐳𝐚𝐝𝐨𝐬 𝐞𝐦 𝐩𝐫á𝐭𝐢𝐜𝐚 𝐞 𝐞𝐱𝐩𝐥𝐨𝐫𝐚𝐧𝐝𝐨 𝐧𝐨𝐯𝐚𝐬 𝐭𝐞𝐜𝐡𝐬.
+𝐁𝐮𝐬𝐜𝐨 𝐦𝐞 𝐭𝐨𝐫𝐧𝐚𝐫 𝐮𝐦 𝐃𝐞𝐯 𝐦𝐞𝐥𝐡𝐨𝐫 𝐚 𝐜𝐚𝐝𝐚 𝐩𝐫𝐨𝐣𝐞𝐭𝐨 𝐜𝐫𝐢𝐚𝐝𝐨 — 𝐜𝐚𝐝𝐚 𝐮𝐦 𝐝𝐞𝐥𝐞𝐬 é 𝐮𝐦𝐚 𝐯𝐞𝐫𝐬ã𝐨 𝐦𝐚𝐢𝐬 𝐚𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐝𝐚 𝐝𝐞 𝐦𝐢𝐦.
 <br>
+<br>
+<br>
+
 <div align="center">
   <i>Este perfil reflete minha trajetória e os projetos que estou construindo. Sinta-se à vontade para acompanhar minha evolução profissional. 🚀</i>
 </div>
@@ -21,16 +24,16 @@
 <br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-**𝗦𝗼𝗯𝗿𝗲 𝗺𝗶𝗺:**
-- 🌱 𝗔𝘁𝘂𝗮𝗹𝗺𝗲𝗻𝘁𝗲 𝗮𝗽𝗿𝗲𝗻𝗱𝗲𝗻𝗱𝗼 𝗥𝗲𝗮𝗰𝘁, 𝗔𝗣𝗜𝘀 𝗲 𝗖𝗟𝗜;
-- 💬 𝗣𝗲𝗿𝗴𝘂𝗻𝘁𝗲-𝗺𝗲 𝗼 𝗾𝘂𝗲 𝗾𝘂𝗶𝘀𝗲𝗿 — 𝗲𝘀𝘁𝗼𝘂 𝗮𝗾𝘂𝗶 𝗽𝗮𝗿𝗮 𝗮𝗷𝘂𝗱𝗮𝗿;
-- ⚡️ 𝗖𝘂𝗿𝗶𝗼𝘀𝗶𝗱𝗮𝗱𝗲: 𝘁𝗲𝗻𝗵𝗼 𝗻í𝘃𝗲𝗹 𝗕𝟮 𝗲𝗺 𝗶𝗻𝗴𝗹ê𝘀;
+**𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦:**
+- 🌱 𝐀𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐚𝐩𝐫𝐞𝐧𝐝𝐞𝐧𝐝𝐨 𝐑𝐞𝐚𝐜𝐭, 𝐀𝐏𝐈𝐬 𝐞 𝐂𝐋𝐈;
+- 💬 𝐏𝐞𝐫𝐠𝐮𝐧𝐭𝐞-𝐦𝐞 𝐨 𝐪𝐮𝐞 𝐪𝐮𝐢𝐬𝐞𝐫 — 𝐞𝐬𝐭𝐨𝐮 𝐚𝐪𝐮𝐢 𝐩𝐚𝐫𝐚 𝐚𝐣𝐮𝐝𝐚𝐫;
+- ⚡️ 𝐂𝐮𝐫𝐢𝐨𝐬𝐢𝐝𝐚𝐝𝐞: 𝐭𝐞𝐧𝐡𝐨 𝐧í𝐯𝐞𝐥 𝐁2 𝐞𝐦 𝐢𝐧𝐠𝐥ê𝐬;
 
 
 
 <br>
 <!-- Tech Stack -->
-<h3 align="center">💻 Tecnologias</h3>
+<h3 align="center">💻 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬</h3>
 <div align="center">
 
 <!-- Languages -->
@@ -67,7 +70,7 @@
 <!-- github status-->
 <h3 align="center">
 <img src="./assets/github-white.svg" width=25>
-Status do Github 
+𝐒𝐭𝐚𝐭𝐮𝐬 𝐝𝐨 𝐆𝐢𝐭𝐡𝐮𝐛 
 </h3>
 <br>
 
