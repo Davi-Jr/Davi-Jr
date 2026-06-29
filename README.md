@@ -17,16 +17,16 @@
 <br>
 
 <div align="center">
-  <i>Este perfil reflete minha trajetória e os projetos que estou construindo. Sinta-se à vontade para acompanhar minha evolução profissional. 🚀</i>
+  <i>Este perfil reflete minha trajetória e os projetos que estou construindo. Sinta-se à vontade para acompanhar minha evolução profissional.🚀</i>
 </div>
 <br>
 <br>
 <br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-**𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦:**
+**𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦::**
 - 🌱 𝐀𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐚𝐩𝐫𝐞𝐧𝐝𝐞𝐧𝐝𝐨 𝐑𝐞𝐚𝐜𝐭, 𝐀𝐏𝐈𝐬 𝐞 𝐂𝐋𝐈;
-- 💬 𝐏𝐞𝐫𝐠𝐮𝐧𝐭𝐞-𝐦𝐞 𝐨 𝐪𝐮𝐞 𝐪𝐮𝐢𝐬𝐞𝐫 — 𝐞𝐬𝐭𝐨𝐮 𝐚𝐪𝐮𝐢 𝐩𝐚𝐫𝐚 𝐚𝐣𝐮𝐝𝐚𝐫;
+- 💬𝐏𝐞𝐫𝐠𝐮𝐧𝐭𝐞-𝐦𝐞 𝐨 𝐪𝐮𝐞 𝐪𝐮𝐢𝐬𝐞𝐫 — 𝐞𝐬𝐭𝐨𝐮 𝐚𝐪𝐮𝐢 𝐩𝐚𝐫𝐚 𝐚𝐣𝐮𝐝𝐚𝐫;
 - ⚡️ 𝐂𝐮𝐫𝐢𝐨𝐬𝐢𝐝𝐚𝐝𝐞: 𝐭𝐞𝐧𝐡𝐨 𝐧í𝐯𝐞𝐥 𝐁2 𝐞𝐦 𝐢𝐧𝐠𝐥ê𝐬;
 
 
@@ -70,7 +70,7 @@
 <!-- github status-->
 <h3 align="center">
 <img src="./assets/github-white.svg" width=25>
-𝐒𝐭𝐚𝐭𝐮𝐬 𝐝𝐨 𝐆𝐢𝐭𝐡𝐮𝐛 
+𝐒𝐭𝐚𝐭𝐮𝐬 𝐝𝐨 𝐆𝐢𝐭𝐡𝐮𝐛
 </h3>
 <br>
 
