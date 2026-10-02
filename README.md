@@ -3,7 +3,6 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/davi-brito-jr/)
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/1155996422668288120)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:davibritojunior1@gmail.com)
 </div>
 <br>
@@ -25,8 +24,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 **𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦::**
-- 🌱 𝐀𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐚𝐩𝐫𝐞𝐧𝐝𝐞𝐧𝐝𝐨 𝐑𝐞𝐚𝐜𝐭, 𝐀𝐏𝐈𝐬 𝐞 𝐂𝐋𝐈;
-- 💬𝐏𝐞𝐫𝐠𝐮𝐧𝐭𝐞-𝐦𝐞 𝐨 𝐪𝐮𝐞 𝐪𝐮𝐢𝐬𝐞𝐫 — 𝐞𝐬𝐭𝐨𝐮 𝐚𝐪𝐮𝐢 𝐩𝐚𝐫𝐚 𝐚𝐣𝐮𝐝𝐚𝐫;
+- 🌱 𝐀𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐚𝐩𝐫𝐞𝐧𝐝𝐞𝐧𝐝𝐨 𝐑𝐞𝐚𝐜𝐭 e 𝐀𝐏𝐈𝐬;
 - ⚡️ 𝐂𝐮𝐫𝐢𝐨𝐬𝐢𝐝𝐚𝐝𝐞: 𝐭𝐞𝐧𝐡𝐨 𝐧í𝐯𝐞𝐥 𝐁2 𝐞𝐦 𝐢𝐧𝐠𝐥ê𝐬;
 
 
