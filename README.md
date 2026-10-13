@@ -21,15 +21,15 @@
 </div>
 <br>
 <br>
-<br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-**𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦::**
+**𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦:**
 - 🌱 𝐀𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐚𝐩𝐫𝐞𝐧𝐝𝐞𝐧𝐝𝐨 𝐑𝐞𝐚𝐜𝐭 e 𝐀𝐏𝐈𝐬;
-- ⚡️ 𝐂𝐮𝐫𝐢𝐨𝐬𝐢𝐝𝐚𝐝𝐞: 𝐭𝐞𝐧𝐡𝐨 𝐧í𝐯𝐞𝐥 𝐁2 𝐞𝐦 𝐢𝐧𝐠𝐥ê𝐬;
+- ⚡️ 𝐂𝐮𝐫𝐢𝐨𝐬𝐢𝐝𝐚𝐝𝐞: 𝐧í𝐯𝐞𝐥 𝐁2 𝐞𝐦 𝐢𝐧𝐠𝐥ê𝐬;
 
-
-
+<br>
+<br>
+<br>
 <br>
 <br>
 <!-- Tech Stack -->
@@ -69,10 +69,10 @@
 
 ### 🔭 Projetos em destaque
 
-- **[DevStudy-IA](https://github.com/Davi-Jr/DevStudy-IA)**: plataforma que gera roadmaps de estudo personalizados com IA (React, TypeScript, Supabase)
-- **[SIAS Web](https://github.com/Davi-Jr/Sistema_de_Emprego)**: sistema de vagas com seleção por mérito, feito em equipe (PHP, MySQL, JavaScript)
-- **[SIAS App](https://github.com/Davi-Jr/SiasApp)**: app mobile de entrevistas com chatbot e simulação de entrevistas (React Native, Expo, Firebase, Supabase)
-- **[Assistente Virtual](https://github.com/Davi-Jr/Assistente-Virtual)**: assistente com controle por voz, consulta de clima e YouTube Music (Python)
+- **[DevStudy-IA](https://github.com/Davi-Jr/DevStudy-IA)**: plataforma que gera roadmaps de estudo personalizados com IA (**React, TypeScript, Supabase**)
+- **[SIAS Web](https://github.com/Davi-Jr/Sistema_de_Emprego)**: sistema de vagas com seleção por mérito, feito em equipe (**PHP, MySQL, JavaScript**)
+- **[SIAS App](https://github.com/Davi-Jr/SiasApp)**: app mobile de entrevistas com chatbot e simulação de entrevistas (**React Native, Expo, Firebase, Supabase**)
+- **[Assistente Virtual](https://github.com/Davi-Jr/Assistente-Virtual)**: assistente com controle por voz, consulta de clima e YouTube Music (**Python**)
 
 
 <!-- github status-->
