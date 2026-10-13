@@ -1,4 +1,4 @@
-<h2> 𝐎𝐥á, 𝐃𝐞𝐯𝐬 & 𝐑𝐞𝐜𝐫𝐮𝐭𝐚𝐝𝐨𝐫𝐞𝐬</>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Olá, Devs & Recrutadores</>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <br>
 <div align="center">
   
@@ -6,26 +6,27 @@
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:davibritojunior1@gmail.com)
 </div>
 <br>
+Sou Davi, um desenvolvedor FullStack Junior 🧑‍💻 | formado em Desenvolvimento de Software Multiplataforma (DSM) na Fatec Zona Sul 🎓.
+<br>
+Apaixonado por codar, sempre colocando novos aprendizados em prática e explorando novas techs.
+Busco me tornar um Dev melhor a cada projeto criado — cada um deles é uma versão mais atualizada de mim.
+<br>
+<br>
+<br>
 
-𝐒𝐨𝐮 𝐃𝐚𝐯𝐢, 𝐮𝐦 𝐝𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐞𝐝𝐨𝐫 𝐅𝐮𝐥𝐥𝐒𝐭𝐚𝐜𝐤 𝐉𝐮𝐧𝐢𝐨𝐫 🧑‍💻 | 𝐟𝐨𝐫𝐦𝐚𝐝𝐨 𝐞𝐦 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐌𝐮𝐥𝐭𝐢𝐩𝐥𝐚𝐭𝐚𝐟𝐨𝐫𝐦𝐚 (𝐃𝐒𝐌) 𝐧𝐚 𝐅𝐚𝐭𝐞𝐜 𝐙𝐨𝐧𝐚 𝐒𝐮𝐥 🎓.
-<br>
-𝐀𝐩𝐚𝐢𝐱𝐨𝐧𝐚𝐝𝐨 𝐩𝐨𝐫 𝐜𝐨𝐝𝐚𝐫, 𝐬𝐞𝐦𝐩𝐫𝐞 𝐜𝐨𝐥𝐨𝐜𝐚𝐧𝐝𝐨 𝐧𝐨𝐯𝐨𝐬 𝐚𝐩𝐫𝐞𝐧𝐝𝐢𝐳𝐚𝐝𝐨𝐬 𝐞𝐦 𝐩𝐫á𝐭𝐢𝐜𝐚 𝐞 𝐞𝐱𝐩𝐥𝐨𝐫𝐚𝐧𝐝𝐨 𝐧𝐨𝐯𝐚𝐬 𝐭𝐞𝐜𝐡𝐬.
-𝐁𝐮𝐬𝐜𝐨 𝐦𝐞 𝐭𝐨𝐫𝐧𝐚𝐫 𝐮𝐦 𝐃𝐞𝐯 𝐦𝐞𝐥𝐡𝐨𝐫 𝐚 𝐜𝐚𝐝𝐚 𝐩𝐫𝐨𝐣𝐞𝐭𝐨 𝐜𝐫𝐢𝐚𝐝𝐨 — 𝐜𝐚𝐝𝐚 𝐮𝐦 𝐝𝐞𝐥𝐞𝐬 é 𝐮𝐦𝐚 𝐯𝐞𝐫𝐬ã𝐨 𝐦𝐚𝐢𝐬 𝐚𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐝𝐚 𝐝𝐞 𝐦𝐢𝐦.
-<br>
-<br>
-<br>
 
 
 <div align="center">
-  <i>Este perfil reflete minha trajetória e os projetos que estou construindo. Sinta-se à vontade para acompanhar minha evolução profissional.🚀</i>
+   <i>Este perfil reflete minha trajetória e os projetos que estou construindo. Sinta-se à vontade para acompanhar minha evolução profissional.🚀</i>
 </div>
 <br>
 <br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-**𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦:**
-- 🌱 𝐀𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐚𝐩𝐫𝐞𝐧𝐝𝐞𝐧𝐝𝐨 𝐑𝐞𝐚𝐜𝐭 e 𝐀𝐏𝐈𝐬;
-- ⚡️ 𝐂𝐮𝐫𝐢𝐨𝐬𝐢𝐝𝐚𝐝𝐞: 𝐧í𝐯𝐞𝐥 𝐁2 𝐞𝐦 𝐢𝐧𝐠𝐥ê𝐬;
+**Sobre mim:**
+- 🌱 Atualmente aprendendo React e APIs;
+- ⚡️ Curiosidade: nível B2 em inglês;
+
 
 <br>
 <br>
@@ -33,7 +34,7 @@
 <br>
 <br>
 <!-- Tech Stack -->
-<h3 align="center">𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬</h3>
+<h3 align="center">Tecnologias</h3>
 <div align="center">
 
 <!-- Languages -->
@@ -68,7 +69,7 @@
 
 
 ### 🔭 Projetos em destaque
-
+ 
 - **[DevStudy-IA](https://github.com/Davi-Jr/DevStudy-IA)**: plataforma que gera roadmaps de estudo personalizados com IA (**React, TypeScript, Supabase**)
 - **[SIAS Web](https://github.com/Davi-Jr/Sistema_de_Emprego)**: sistema de vagas com seleção por mérito, feito em equipe (**PHP, MySQL, JavaScript**)
 - **[SIAS App](https://github.com/Davi-Jr/SiasApp)**: app mobile de entrevistas com chatbot e simulação de entrevistas (**React Native, Expo, Firebase, Supabase**)
@@ -78,7 +79,7 @@
 <!-- github status-->
 <h3 align="center">
 <img src="./assets/github-white.svg" width=25>
-𝐒𝐭𝐚𝐭𝐮𝐬 𝐝𝐨 𝐆𝐢𝐭𝐡𝐮𝐛
+Status do Github
 </h3>
 <br>
 
@@ -88,9 +89,5 @@
  <img src="https://streak-stats.demolab.com?user=Davi-Jr&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=400" />
 
   <img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=Davi-Jr&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&rank_icon=github&card_width=400" />
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-Jr&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20do%20Davi%20Jr"
-  alt="Gráfico de Atividades"
-  width="100%"
-/>
+
 </div>
