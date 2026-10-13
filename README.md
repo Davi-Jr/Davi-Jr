@@ -15,6 +15,7 @@
 <br>
 <br>
 
+
 <div align="center">
   <i>Este perfil reflete minha trajetória e os projetos que estou construindo. Sinta-se à vontade para acompanhar minha evolução profissional.🚀</i>
 </div>
@@ -30,8 +31,9 @@
 
 
 <br>
+<br>
 <!-- Tech Stack -->
-<h3 align="center">💻 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬</h3>
+<h3 align="center">𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬</h3>
 <div align="center">
 
 <!-- Languages -->
@@ -64,7 +66,15 @@
 <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 </div>
 
-<br>
+
+### 🔭 Projetos em destaque
+
+- **[DevStudy-IA](https://github.com/Davi-Jr/DevStudy-IA)**: plataforma que gera roadmaps de estudo personalizados com IA (React, TypeScript, Supabase)
+- **[SIAS Web](https://github.com/Davi-Jr/Sistema_de_Emprego)**: sistema de vagas com seleção por mérito, feito em equipe (PHP, MySQL, JavaScript)
+- **[SIAS App](https://github.com/Davi-Jr/SiasApp)**: app mobile de entrevistas com chatbot e simulação de entrevistas (React Native, Expo, Firebase, Supabase)
+- **[Assistente Virtual](https://github.com/Davi-Jr/Assistente-Virtual)**: assistente com controle por voz, consulta de clima e YouTube Music (Python)
+
+
 <!-- github status-->
 <h3 align="center">
 <img src="./assets/github-white.svg" width=25>
